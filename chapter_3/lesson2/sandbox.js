@@ -11,3 +11,12 @@ while(k < names.length){
     console.log(names[k]);
     k++;
 }
+
+//do while loops
+
+let z = 5
+
+do{
+    console.log('val of z is', z);
+    z++;
+} while(z < 5);
